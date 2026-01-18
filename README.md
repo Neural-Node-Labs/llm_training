@@ -883,4 +883,3 @@ MIT License - see LICENSE file for details
 
 ---
 
-**Made with ❤️ using Component-Based Development**
